@@ -97,4 +97,4 @@ This project aims to predict loan defaults using machine learning techniques. Th
 ## How to Use  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/Loan-Default-Prediction-ML.git
+   git clone https://github.com/Yasayah-Nadeem-Khokhar/Loan-Default-Prediction-ML.git
